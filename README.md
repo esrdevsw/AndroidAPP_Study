@@ -26,5 +26,5 @@ and apply the kotlin-android-extensions plugin:
 
 apply plugin: 'kotlin-android-extensions'
 
->>> Next step is to fix the App and add the database functionality.
+->Next step is to fix the App and add the database functionality.
 
